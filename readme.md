@@ -223,3 +223,5 @@ Asegúrate de que tu archivo `index.html` esté en esta carpeta y contenga todos
 - NO uses JavaScript
 - El archivo debe llamarse exactamente `index.html`
 - Todas las pruebas deben pasar (✓)
+
+Forzar calificacion automatica
